@@ -40,7 +40,7 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ![Docker](https://img.shields.io/badge/Docker-253238?logo=docker)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?logo=github-actions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
 ### **Storage**
 
