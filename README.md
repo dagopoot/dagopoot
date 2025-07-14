@@ -63,7 +63,7 @@ Node.js, TypeScript, Python, Django
 
 ## 📫 **Contact | Contacto**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)]([https://www.linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/dagopoot/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)]([https://www.linkedin.com/in/dagopoot](https://www.linkedin.com/in/dagopoot/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/dagopoot)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:dagopoot@gmail.com)
 
