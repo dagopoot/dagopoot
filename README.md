@@ -4,14 +4,14 @@
 Developer with **15+ years of experience**, passionate about **Clean Code**, scalable architectures, and best practices.  
 - 🔧 Expertise in **design patterns**, **refactoring**, and **unit testing**.  
 - 👨‍💻 Led cross-functional teams (up to **10 members**: UI/UX, Frontend, Backend).  
-- 🌱 I value learning from others and sharing knowledge.  
+- 🌱 I value learning from others, sharing experiences and knowledge.
 - 🛠 **Skills**: Frontend, Backend, DevOps, CI/CD, Cloud (AWS & Google Cloud).  
 
 **Español**:  
 Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**, arquitecturas escalables y buenas prácticas.  
 - 🔧 Experiencia en **patrones de diseño**, **refactorización** y **pruebas unitarias**.  
 - 👨‍💻 Lideré equipos multidisciplinarios (hasta **10 personas**: UI/UX, Frontend, Backend).  
-- 🌱 Valoro aprender de otros y compartir conocimiento.  
+- 🌱 Valoro aprender de otros, compartir experiencias y conocimiento.
 - 🛠 **Skills**: Frontend, Backend, DevOps, CI/CD, Cloud (AWS & Google Cloud).  
 
 ---
