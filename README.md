@@ -36,7 +36,7 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ### **DevOps & Cloud**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-FFFFFF?logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-253238?logo=docker)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?logo=github-actions&logoColor=white)
