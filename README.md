@@ -1,4 +1,4 @@
-### **Senior Software Engineer
+## **Senior Software Engineer**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Clean+Code+Enthusiast;15%2B+years+of+experience;Full-Stack+Specialist" alt="Typing Animation">
