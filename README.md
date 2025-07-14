@@ -41,18 +41,23 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?logo=github-actions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
 
+### **Storage**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
 ---
 
-## 🌐 **Current Stack | Stack Actual**  
+## 🌐 **Favorite Stack | Stack Favorito**  
 
 **Frontend**:  
 React, Next.js, TypeScript, Turborepo, Tailwind CSS  
 
 **Backend**:  
 Node.js, TypeScript, Python, Django  
-
-**Ecosistemas Adicionales**:  
-Ruby (Sinatra), PHP (Laravel), ASP.NET Core (C#)  
 
 ---
 
