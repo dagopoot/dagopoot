@@ -49,15 +49,6 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 
 ---
 
-## 📈 **GitHub Stats | Estadísticas**  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagopoot&show_icons=true&theme=radical" alt="Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagopoot&layout=compact&theme=radical" alt="Top Langs" width="45%">
-</div>
-
----
-
 ## 🌐 **Current Stack | Stack Actual**  
 
 **Frontend**:  
