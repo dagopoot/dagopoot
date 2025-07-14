@@ -1,13 +1,5 @@
 ## **Senior Software Engineer**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Clean+Code+Enthusiast;15%2B+years+of+experience;Full-Stack+Specialist" alt="Typing Animation">
-</div>
-
----
-
-## 🚀 **About Me | Sobre Mí**  
-
 **English**:  
 Developer with **15+ years of experience**, passionate about **Clean Code**, scalable architectures, and best practices.  
 - 🔧 Expertise in **design patterns**, **refactoring**, and **unit testing**.  
