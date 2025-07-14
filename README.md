@@ -21,6 +21,7 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css)
 
@@ -48,16 +49,6 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-
----
-
-## 🌐 **Favorite Stack | Stack Favorito**  
-
-**Frontend**:  
-React, Next.js, TypeScript, Turborepo, Tailwind CSS  
-
-**Backend**:  
-Node.js, TypeScript, Python, Django  
 
 ---
 
