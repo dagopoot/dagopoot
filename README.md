@@ -26,8 +26,8 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?logo=tailwind-css)
 
 ### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby)
 ![PHP](https://img.shields.io/badge/PHP-232531?logo=php)
