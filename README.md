@@ -23,7 +23,7 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?logo=tailwind-css)
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
