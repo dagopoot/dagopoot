@@ -55,7 +55,7 @@ Desarrollador con **15+ años de experiencia**, apasionado por el **Clean Code**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/dagopoot/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/dagopoot)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:dagopoot@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:dagopoot@gmail.com)
 
 ---
 
